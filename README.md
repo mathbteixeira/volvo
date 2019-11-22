@@ -5,10 +5,12 @@ For this poject we must have these tools installed:
 - Java 1.8
 - Eclipse
 - Maven
-- Other useful information:
 
--- The project uses **MongoDB Atlas**, so it's not neccessary to download MongoDB, the application point to the cluster's URL.
--- The project only have the backend, so one way of testing it is by using **Postman** or another similar software that tests services.
+Other useful information:
+
+- The project uses **MongoDB Atlas**, so it's not neccessary to download MongoDB, the application point to the cluster's URL.
+- The project only have the backend, so one way of testing it is by using **Postman** or another similar software that tests services.
+
 
 ### Steps 
 First download/clone this project into your computer and import it into your Eclipse workspace.

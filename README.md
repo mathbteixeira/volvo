@@ -14,9 +14,13 @@ Other useful information:
 
 ### Steps 
 First download/clone this project into your computer and import it into your Eclipse workspace.
+
 To download the dependencies you can right click in the project's name, go to "Run As" and click on "Maven build...".
+
 When the run configuration page opens, add "clean install" to Goals and click "Run".
+
 After that right click on the project again, go to "Maven" and click "Update Maven Project". Select the checkbox "Force Update...".
+
 Make sure your project is selected and then click "OK", this will update the project's JARs.
 
 ## Running the application

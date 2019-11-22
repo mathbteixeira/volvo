@@ -25,8 +25,10 @@ Make sure your project is selected and then click "OK", this will update the pro
 
 ## Running the application
 The application uses Spring Boot, so you only need to create a new Java Application run configuration and execute it.
+
 Choose the project (volvo), and set the main class as "com.volvo.VolvoApplication". Then click "Run" and it will start to run.
-The project will be deployed in the server and will be available at http://localhost:8080.
+
+The project will be deployed in the server and will be available at **http://localhost:8080**.
 
 ## Endpoints
 - GET - http://localhost:8080/vehicles - lists all vehicles
@@ -37,4 +39,5 @@ The project will be deployed in the server and will be available at http://local
 
 ## Unit tests
 The project doesn't have unit tests implemented yet. There are actually 2 in one class, but they are failing.
+
 To run them, we must create a new JUnit run configuration using JUnit 4 and select to run all tests.
